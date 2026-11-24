@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df=pd.read_csv("Most Streamed Artists on Spotify (17_07_2026) V1.1-selected-columns.csv")
+df=pd.read_csv("dataset/spotify-artists.csv")
 
 # 2. Understand dataset
 print(df.head())
