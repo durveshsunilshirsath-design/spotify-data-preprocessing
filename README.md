@@ -113,4 +113,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 **Project Category:** Data Analytics | Exploratory Data Analysis | Python
 
 **Author:** 
-**Durvesh 
+*Durvesh*
